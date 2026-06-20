@@ -1,2 +1,2 @@
 # Daily-practice
-Github streak
+Day 1 - June 20 2026
